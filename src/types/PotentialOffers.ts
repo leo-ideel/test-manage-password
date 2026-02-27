@@ -483,13 +483,9 @@ export const EstimationPartnerCredentials: Partial<
     username: 'G124293',
     password: '30303',
   },
-  [EstimationPartner.DIRECTASSURANCE]: {
-    username: 'fakeUsername',
-    password: 'fakeMDP',
-  },
   [EstimationPartner.ASAF]: {
     username: 'Edouard ALEXANDRE',
-    password: 'q-5j8vtTG',
+    password: 'yt50#BfWc',
   },
   [EstimationPartner.APRIL]: {
     username: 'TechAdmin',
